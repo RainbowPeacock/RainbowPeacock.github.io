@@ -1,0 +1,78 @@
+html {
+	
+	background-image: url(https://school298.spb.ru/images/100/DSC100187227.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+body {
+	width: 1500px;
+	background-color: black;
+	margin:0 auto;
+	padding: 20px 20px 20px 20px;
+	border: 5px solid white;
+    opacity: 0.8;
+    margin-top: 120px;
+}
+
+
+.text1 {
+
+color: white;
+font-size: 20px;
+font-family: cursive;
+opacity: 1;
+}
+
+
+.zagolovok {
+
+color: white;
+text-align: center;
+font-size: 30px;
+font-family: cursive;
+opacity: 1;
+}
+
+ul {
+	color: white;
+	font-size: 30px;
+	font-family: cursive;
+    opacity:1;
+}
+.text2 {
+
+	color:white;
+	text-align:center;
+	font-size: 30px;
+	font-family: cursive;
+	opacity: 1;
+	background: yellow;
+	border: 3px solid white;
+	border-radius: 5px;
+	width: 137px;
+	margin-left: 800px;
+	
+}
+
+	.text2 a {
+		
+        display: block;
+        text-decoration: none;
+        margin: auto 0;
+        width: 100px;
+        height: 50px;
+
+	}
+
+		.text2 a:hover {
+			background: red;
+			color: white;
+			transition: .3s;
+		}
+		.img {
+			display: block;
+			margin: 0 auto;
+		}
+
+
