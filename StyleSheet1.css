@@ -1,0 +1,34 @@
+﻿body {
+
+    background-color: silver;
+    color: black;
+    margin: 0;
+    background-image: url(https://school298.spb.ru/images/100/DSC100187227.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+img {
+    border: 4px solid #694d7a;
+}
+
+.foto1 {
+    
+    
+    display: block;
+    padding: 4px;
+    max-width: 2000px;
+    margin-left: 850px;
+    max-height: 15000px;
+    
+ 
+    }
+
+
+
+
+
+ 
