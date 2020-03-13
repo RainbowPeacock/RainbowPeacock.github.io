@@ -6,7 +6,7 @@ html {
 
 }
 body {
-	width: 1500px;
+	width: 1200px;
 	background-color: black;
 	margin:0 auto;
 	padding: 20px 20px 20px 20px;
@@ -19,7 +19,7 @@ body {
 .text1 {
 
 color: white;
-font-size: 20px;
+font-size: 15px;
 font-family: cursive;
 opacity: 1;
 }
@@ -29,14 +29,14 @@ opacity: 1;
 
 color: white;
 text-align: center;
-font-size: 30px;
+font-size: 20px;
 font-family: cursive;
 opacity: 1;
 }
 
 ul {
 	color: white;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: cursive;
     opacity:1;
 }
@@ -44,7 +44,7 @@ ul {
 
 	color:white;
 	text-align:center;
-	font-size: 30px;
+	font-size: 20px;
 	font-family: cursive;
 	opacity: 1;
 	background: yellow;
