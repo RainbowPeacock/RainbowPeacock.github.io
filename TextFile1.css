@@ -82,14 +82,13 @@ ul {
 
 	}
 
-		.text2 a:hover {
-			background: red;
-			color: white;
-			transition: .3s;
-		}
-		.img {
-			display: block;
-			margin: 0 auto;
+.text2 a:hover {
+	background: red;
+	color: white;
+	
+.img {
+	display: block;
+	margin: 0 auto;
 		}
 .f1{
 	font-family: cursive;
