@@ -92,7 +92,11 @@ ul {
 			display: block;
 			margin: 0 auto;
 		}
-
+.f1{
+	font-family: cursive;
+	color:yellow;
+	text-align: center;
+}
 .ff{
 	font-family: cursive;
 	color: yellow;
