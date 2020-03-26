@@ -5,11 +5,7 @@ html {
 	background-repeat: no-repeat;
 
 }
-.ff{
-	font-family: cursive;
-	color: yellow;
-	text-align: center;
-}
+
 .da{
 	margin: 0;
 	padding: .3rem;
@@ -97,4 +93,8 @@ ul {
 			margin: 0 auto;
 		}
 
-
+.ff{
+	font-family: cursive;
+	color: yellow;
+	text-align: center;
+}
