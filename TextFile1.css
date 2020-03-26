@@ -74,7 +74,7 @@ ul {
 }
 
 	.text2 a {
-		
+	text-alugn: center;	
         display: block;
         text-decoration: none;
         width: 100px;
