@@ -64,6 +64,7 @@ ul {
 	text-align:center;
 	font-size: 20px;
 	font-family: cursive;
+	
 
 	
 }
@@ -74,7 +75,7 @@ ul {
         text-decoration: none;
         width: 100px;
         height: 50px;
-
+	text-decoratoin: none;
 	}
 
 .text2 a:hover {
